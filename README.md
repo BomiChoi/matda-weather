@@ -1,2 +1,2 @@
 # matda-weather
-LEarning React Native by Building a Weather App
+Learning React Native by Building a Weather App
